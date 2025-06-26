@@ -11,7 +11,7 @@ import Footer from './Components/Footer'
 import Navbar from './Components/Navbar'
 import Testimonial from './Components/Testimonial'
 import Blogs from './Components/Blogs'
-import Lets from './Components/lets'
+import Lets from './Components/Lets'
 
 
 
