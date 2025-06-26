@@ -1,7 +1,6 @@
 import React from "react";
 import Logo1 from "../assets/logo-1.svg";
 import Logo2 from "../assets/logo-2.svg";
-import Logo3 from "../assets/logo_3.svg";
 import Logo4 from "../assets/logo_4.svg";
 import Logo5 from "../assets/logo_5.svg";
 import Logo6 from "../assets/logo_6.svg";
@@ -22,7 +21,7 @@ const Organisation = () => {
               <img src={Logo2} alt="logo-2" />
             </div> -9
             <div className="slide">
-              <img src={Logo3} alt="logo-3" />
+              <img src={Logo4} alt="logo-3" />
             </div>
             <div className="slide">
               <img src={Logo4} alt="logo-4" />
